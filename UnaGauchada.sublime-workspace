@@ -1,0 +1,631 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mysqli_f",
+				"mysqli_fetch_array"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"form",
+				"form-signin"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"my",
+				"mysqli_error"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"mysqli_erro",
+				"mysqli_connect_error"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"favor",
+				"favorId"
+			],
+			[
+				"nombre",
+				"nombreimg"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"userTe",
+				"userTelNumber"
+			],
+			[
+				"userTel",
+				"userTelLocal"
+			],
+			[
+				"userTelN",
+				"userTelNational"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"carac",
+				"cararLocal"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"backgron",
+				"background-repeat"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "product.php",
+			"settings":
+			{
+				"buffer_size": 3123,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "registry.php",
+			"settings":
+			{
+				"buffer_size": 1998,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1341,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "alta_usuario.php",
+			"settings":
+			{
+				"buffer_size": 686,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mostrar_postulantes.php",
+			"settings":
+			{
+				"buffer_size": 1827,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "mostrar_postulantes.php"
+			}
+		},
+		{
+			"file": "profile.php",
+			"settings":
+			{
+				"buffer_size": 3648,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "add_postulant.php",
+			"settings":
+			{
+				"buffer_size": 260,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "add_postulant.php"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs"
+	],
+	"file_history":
+	[
+		"/opt/lampp/htdocs/navbar.php",
+		"/opt/lampp/htdocs/login.php",
+		"/opt/lampp/htdocs/alta_usuario.php",
+		"/opt/lampp/htdocs/head.php",
+		"/opt/lampp/htdocs/signin.php",
+		"/opt/lampp/htdocs/edit_profile.php",
+		"/opt/lampp/htdocs/profile.php",
+		"/opt/lampp/htdocs/create_favor.php",
+		"/opt/lampp/htdocs/css/style.css",
+		"/opt/lampp/htdocs/css/product.css",
+		"/opt/lampp/htdocs/index.php",
+		"/opt/lampp/htdocs/mostrar_gauchadas.php",
+		"/opt/lampp/htdocs/config.php",
+		"/opt/lampp/htdocs/alta_favor.php",
+		"/opt/lampp/htdocs/untitled.php",
+		"/opt/lampp/htdocs/css/profile.css",
+		"/opt/lampp/htdocs/product.php",
+		"/opt/lampp/htdocs/js/profile.js",
+		"/opt/lampp/htdocs/registry.php",
+		"/opt/lampp/htdocs/sources.php",
+		"/opt/lampp/htdocs/css/carousel.css",
+		"/opt/lampp/htdocs/css/index.css",
+		"/opt/lampp/htdocs/css/untitled.css",
+		"/opt/lampp/htdocs/js/untitled.js",
+		"/opt/lampp/htdocs/js/product.js",
+		"/home/trickster/Documents/CosasTurbiasDeApachepeYHTML/test/index.php",
+		"/opt/lampp/htdocs/create_user.php",
+		"/opt/lampp/htdocs/js/product.min.js",
+		"/opt/lampp/htdocs/js/bootstrap.js",
+		"/opt/lampp/htdocs/css/bootstrap.css",
+		"/home/trickster/Downloads/bootstrap-3.3.7/bootstrap-3.3.7/docs/examples/carousel/index.html",
+		"/opt/lampp/htdocs/cargaLogin.php",
+		"/opt/lampp/htdocs/AltaUsuario.php",
+		"/opt/lampp/htdocs/cargaFavor.php",
+		"/opt/lampp/htdocs/createFavor.php",
+		"/opt/lampp/htdocs/createUser.php",
+		"/opt/lampp/htdocs/css/jumbotron.css",
+		"/opt/lampp/htdocs/js/holder.js",
+		"/opt/lampp/htdocs/logout.php",
+		"/opt/lampp/htdocs/carga.php",
+		"/opt/lampp/htdocs/UnaGauchada.sublime-project",
+		"/home/trickster/Documents/CosasTurbiasDeApachepeYHTML/aaa/devolver.php",
+		"/home/trickster/Documents/CosasTurbiasDeApachepeYHTML/aaa/index.php",
+		"/opt/lampp/htdocs/session.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$datos",
+			"$_SESSION",
+			"$_session",
+			">\n",
+			"Gaucha",
+			"$resultado",
+			"$row",
+			"navbar-co",
+			"favorId",
+			"follow_btn",
+			":hover",
+			"background",
+			"warning",
+			"<!-- Form Name -->\n<legend>Crea tu favor</legend>\n",
+			"mouse",
+			"80",
+			"has-error",
+			"has-danger",
+			"form-control-danger",
+			"inputHorizontalDnger",
+			"form-control-danger",
+			"sign-in",
+			"form-signin-heading",
+			"form-signin",
+			"btn-",
+			"a {",
+			"h1",
+			"navbar-inverse",
+			"container",
+			"  background-image:",
+			"background-color: #0",
+			"navbar-inverse"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2922,
+								2922
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1488.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "registry.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1751,
+								1751
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1314,
+								1314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "alta_usuario.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								680,
+								680
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "mostrar_postulantes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "mostrar_postulantes.php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "profile.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1357,
+								1357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 150.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "add_postulant.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"auto_name": "add_postulant.php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.816814159292,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "UnaGauchada.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

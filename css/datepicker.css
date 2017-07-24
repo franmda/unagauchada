@@ -1,0 +1,40 @@
+.datepicker table tr td.active,
+.datepicker table tr td.active:hover,
+.datepicker table tr td.active.disabled,
+.datepicker table tr td.active.disabled:hover {
+  background-color: #e14800;
+  background-image: -moz-linear-gradient(to bottom, #f0ad4e, #f0ad4e);
+  background-image: -ms-linear-gradient(to bottom, #f0ad4e, #f0ad4e);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#08c), to(#0044cc));
+  background-image: -webkit-linear-gradient(to bottom, #f0ad4e, #f0ad4e);
+  background-image: -o-linear-gradient(to bottom, #f0ad4e, #f0ad4e);
+  background-image: linear-gradient(to bottom, #f0ad4e, #f0ad4e);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#08c', endColorstr='#0044cc', GradientType=0);
+  border-color: #e14800 #e14800 #e14800;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+.datepicker table tr td span.active,
+.datepicker table tr td span.active:hover,
+.datepicker table tr td span.active.disabled,
+.datepicker table tr td span.active.disabled:hover {
+  background-color: #e14800;
+  background-image: -moz-linear-gradient(to bottom, #f0ad4e, #f0ad4e);
+  background-image: -ms-linear-gradient(to bottom, #f0ad4e, #f0ad4e);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f0ad4e), to(#f0ad4e));
+  background-image: -webkit-linear-gradient(to bottom, #f0ad4e, #f0ad4e);
+  background-image: -o-linear-gradient(to bottom, #f0ad4e, #f0ad4e);
+  background-image: linear-gradient(to bottom, #f0ad4e, #f0ad4e);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#08c', endColorstr='#0044cc', GradientType=0);
+  border-color: #e14800 #e14800 #e14800;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+f0ad4e
+e14800

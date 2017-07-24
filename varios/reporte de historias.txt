@@ -1,0 +1,10 @@
+cerrar sesion                    -- bien 
+iniciar sesion                   -- bien 
+registrarse al sitio             -- bien 
+comprar creditos                 -- bien 
+ver listado de gauchadas         -- bien 
+Crear gauchada                   -- bien 
+Ver gauchada                     -- bien 
+filtrar gauchadas por categoria  -- bien 
+filtrar gauchadas por titulo     -- bien 
+filtrar gauchadas por ubicacion  -- bien 

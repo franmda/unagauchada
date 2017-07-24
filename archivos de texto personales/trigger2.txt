@@ -1,0 +1,10 @@
+DELIMITER |
+CREATE TRIGGER restar_credito AFTER INSERT ON favor
+FOR EACH ROW 
+BEGIN
+   UPDATE usuario 
+    SET userCredits= userCredits - 1
+   WHERE usuario.userMail=new.UserId;
+END;
+|
+DELIMITER ; 

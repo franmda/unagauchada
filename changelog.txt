@@ -1,0 +1,38 @@
+---CHANGELOG---
+#comprar_creditos.php
+
+-Boton para ver el precio unitario agregado.
+-El campo de la clave de la tarjeta exije 4 digitos, acabo de testearlo y funciona bien. Lo probe con google chrome y firefox y en ambos funciona igual de bien.
+-Acabo de completar el campo de la contraseña... Nunca vi que te pidan una confirmacion de contraseña de usuario pero bue... En fin... El campo esta hecho, testeado y funciona bien tanto en chrome como en firefox.
+-El campo de la tarjeta que comprueba los 16 digitos esta arreglado; sacarlo fue un error mio, pense que iba a quedar mejor pero quedo mas chancho.
+
+#mostrar_gauchadas.php
+-La unica manera de que que falle el mostrar_gauchadas es que no tengas iniciado bien SQL. Deberias chequear bien eso...
+
+#product.php
+-En ningun momento se ven numeros, intente de varias formas tanto el firefox como en google chrome pero siempre se ve bien tanto la categoria como la ubicacion. Lo que vos decis es que, cuando se crea la gauchada, se carga un numero como categoria; idem con la ubicacion. La idea no estaria mal si no fuera porque estariame olvidando de traducir esos numeros. De hecho, seria una forma eficiente de manejarlo cuando en el futuro haya que editar categorias. Por ahora lo solucione de forma chancha, es decir, pongo el nombre directamente, pero pronto voy a estar mejorandolo. Testie todo esto con chrome y firefox y funciona bien.
+-Hice un cambio al usuario que se muestra: en vez de verse el e-mail se ve el nombre de usuario.
+-Bugazo salvaje resuelto: ahora da la chance de loguearse desde alli. Si falla, vuelve al index.
+
+#ver_mis_gauchadas.php (archivo nuevo)
+
+-Testie este archivo a la ligera y parece funcionar, es decir, no hay forma de que falle (No tenes que tener bien puesto el SQL o algo asi). En fin, lo hice como mejor me parecio y de la mejor manera que pude, pero si creen que deberia ser distinto, me avisan. Es un archivo muy parecido a mostrar_gauchadas. Lo testie en google chrome y firefox y funciona bien.
+
+#profile.php
+-Arregle el tema de que muestre los creditos. Pense en hacer un boton o algo asi, pero me rendi ante la idea de hacer una linea de codigo cortita y simple que diga todo. Testeado con chrome y firefox.
+
+#crear_favor.php
+-Cree una tabla de categorias y ubicaciones que es lo que se muestra finalmente. Si no se carga una foto, una foto default es cargada. Los campos de nombre y descripcion son requiered; mientras que los de ubicacion y categoria, si bien no son tan estrictos, siempre van a tener un valor porque lo programe de esa forma para evitar quilombos basicamente. Testeado con chrome y firefox: en ambos se comporta igual.
+
+#mostrar_gauchadas
+-Bug de organizacion resuelto.
+
+--COSAS QUE NO SE QUE SON PERO QUE AFECTAN AL DISEÑO LINDO--
+-En comprar_creditos.php, por alguna razon, cada tanto, el boton de busqueda aparece mas chiquito de lo que deberia ser. No estoy seguro de por que es...
+
+--FUNCIONALIDADES RANCIAS QUE NO SE COMO CORREGIR--
+-Si subis una foto con nombre muy largo en profile.php no se por que pero no funciona.
+
+Adjunto a este archivo hay una carpeta llena de capturas para que vean que funciona :D
+
+Saludos saludillos, Lihuel.
